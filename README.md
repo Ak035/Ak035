@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Full-stack development projects and data analysis tasks, focusing on building features and extracting insights from data<br><br>👯 I’m looking to collaborate on: Software applications or analytics projects where development and data work together<br><br>🤝 I’m looking for help with: Writing scalable backend code, efficient SQL queries, and applying analytics to real products<br><br>🌱 I’m currently learning: Data structures, backend development, SQL, Python for data analysis, and visualization techniques<br><br>💬 Ask me about: JavaScript, REST APIs, SQL, Python (Pandas), data cleaning, and basic system design<br><br>⚡ Fun fact: I like building applications first—and then analyzing their data to improve performance and user experience
 
 
